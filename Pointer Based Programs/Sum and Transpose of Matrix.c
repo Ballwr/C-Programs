@@ -2,7 +2,7 @@
 
 int main()
 {
-        int SUM = 0;
+    int SUM = 0;
     int row, col;
     int *p, *q;
     
